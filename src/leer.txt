@@ -1,1 +1,3 @@
-en main se puede apreciar la tecnica  de creacion de graficas llamada :BubbleGraph 
+en main se puede apreciar la tecnica  de creacion de graficas llamada :BubbleGraph
+en main2 se puede apreciar la tecnica de graficado :Stepped Area Grap aunque falta de implementar
+la funcion que rellena el area con el color correspondiente.
